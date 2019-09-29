@@ -1,0 +1,3 @@
+saleprice:
+    css: '#priceblock_ourprice'
+    type: Text
